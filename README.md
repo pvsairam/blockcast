@@ -20,7 +20,7 @@ A 6-month Proof of Resources Epoch, rewarding nodes based on their node capacity
 * Must install Ubuntu on Windows using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), then continue further steps.
 
 **VPS Users**:
-* Get started via a `VPS` with 4 cores CPU, 8GB RAM! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==) | [Detailed Guide](https://github.com/0xmoei/Linux_Node_Guide/tree/main)
+* Get started with a VPS Server! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==) | [Detailed Guide](https://github.com/0xmoei/Linux_Node_Guide/tree/main)
 
 ---
 
