@@ -12,6 +12,7 @@ A 6-month Proof of Resources Epoch, rewarding nodes based on their node capacity
   - Hardware score (RAM, disk, CPU)
   - Location (where your IP is physically based)
   - BONUS: Multicast-enabled IPs earn extra points!
+- Possible to run with a minimal hardware.
  
 ---
  
