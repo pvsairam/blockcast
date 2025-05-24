@@ -13,15 +13,6 @@ A 6-month Proof of Resources Epoch, rewarding nodes based on their node capacity
   - Location (where your IP is physically based)
   - BONUS: Multicast-enabled IPs earn extra points!
 - Possible to run with a minimal hardware.
- 
----
- 
-## Enviorement
-**Windows Users**:
-* Must install Ubuntu on Windows using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), then continue further steps.
-
-**VPS Users**:
-* Get started with a VPS Server! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==) | [Detailed Guide](https://github.com/0xmoei/Linux_Node_Guide/tree/main)
 
 ---
 
@@ -64,7 +55,7 @@ sudo systemctl restart docker
 ---
 
 ## Register Dashboard:
-To get started, register in [Dashboard](https://app.blockcast.network?referral-code=QCsKOk)
+To get started, register in [Dashboard](https://app.blockcast.network?referral-code=XlWh6d)
 
 ---
 
